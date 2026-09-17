@@ -1,13 +1,22 @@
 {
   "files": [
     {
+      "slug": "2024年研究生专业目录",
+      "original": "2024年研究生专业目录.pdf",
+      "page": "pages/2024年研究生专业目录.html",
+      "file": "files/2024年研究生专业目录.pdf",
+      "size": 12683664,
+      "kind": "PDF",
+      "added": "2026-09-17 09:56"
+    },
+    {
       "slug": "624255",
       "original": "624255.docx",
       "page": "pages/624255.html",
       "file": "files/624255.docx",
       "size": 11180178,
       "kind": "Word 文档",
-      "added": "2026-09-17 09:38"
+      "added": "2026-09-17 09:56"
     },
     {
       "slug": "624254-1",
@@ -16,7 +25,7 @@
       "file": "files/624254-1.xlsx",
       "size": 357075,
       "kind": "Excel 表格",
-      "added": "2026-09-17 09:38"
+      "added": "2026-09-17 09:56"
     }
   ]
 }
